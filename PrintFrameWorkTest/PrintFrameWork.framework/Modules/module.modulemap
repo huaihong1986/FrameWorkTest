@@ -1,0 +1,6 @@
+framework module PrintFrameWork {
+  umbrella header "PrintFrameWork.h"
+
+  export *
+  module * { export * }
+}
